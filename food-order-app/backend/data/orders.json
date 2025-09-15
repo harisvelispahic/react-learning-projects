@@ -1,0 +1,202 @@
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m3",
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 2
+      },
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 3
+      }
+    ],
+    "customer": {
+      "email": "haris.velispahic@gmail.com",
+      "name": "Haris Velispahic",
+      "street": "Street name 123",
+      "postal-code": "12345",
+      "city": "Mostar"
+    },
+    "id": "685.7572000375607"
+  },
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 5
+      },
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "email": "haris.velispahic@edu.fit.ba",
+      "name": "Haris Velispahic",
+      "street": "Street name 123",
+      "postal-code": "12345",
+      "city": "Kakanj"
+    },
+    "id": "529.4848847609728"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 3
+      }
+    ],
+    "customer": {
+      "email": "haris.velispahic@edu.fit.ba",
+      "name": "Haris Velispahic",
+      "street": "Street name 123",
+      "postal-code": "12345",
+      "city": "Kakanj"
+    },
+    "id": "349.2266467790455"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 3
+      },
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "email": "a@gmail.com",
+      "name": "Haris Velispahic",
+      "street": "Street name 123",
+      "postal-code": "12345",
+      "city": "Mostar"
+    },
+    "id": "557.0177214438088"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 5
+      }
+    ],
+    "customer": {
+      "email": "a@gmail.com",
+      "name": "Haris Velispahic",
+      "street": "Street name 387",
+      "postal-code": "88000",
+      "city": "Zenica"
+    },
+    "id": "18.245914641654927"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 4
+      },
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m5",
+        "name": "Veggie Burger",
+        "price": "9.99",
+        "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+        "image": "images/veggie-burger.jpg",
+        "quantity": 2
+      },
+      {
+        "id": "m8",
+        "name": "Sushi Roll Platter",
+        "price": "15.99",
+        "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
+        "image": "images/sushi-roll-platter.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m12",
+        "name": "Pancake Stack",
+        "price": "8.99",
+        "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+        "image": "images/pancake-stack.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m15",
+        "name": "Chocolate Brownie",
+        "price": "5.99",
+        "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+        "image": "images/chocolate-brownie.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "email": "haris.velispahic@gmail.com",
+      "name": "Haris Velispahic",
+      "street": "Street name 387",
+      "postal-code": "71000",
+      "city": "Sarajevo"
+    },
+    "id": "814.1659289500922"
+  }
+]
